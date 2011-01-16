@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/2.5">
+    <id>com.amazon.mp3.itunesdirmock</id>
+    <versionNumber>0.1</versionNumber>
+    <filename>iTunesDirMock</filename>
+    <name>Create Mock iTunes Directory</name>
+    <description>Creates Directory Structure from iTunes XML file</description>
+    <initialWindow>
+        <content>iTunesDirMock.html</content>
+        <title>Create iTunes Directories</title>
+        <systemChrome>standard</systemChrome>
+        <transparent>false</transparent>
+        <visible>true</visible>
+        <minimizable>true</minimizable>
+        <maximizable>true</maximizable>
+        <resizable>true</resizable>
+        <height>550</height>
+        <width>550</width>
+    </initialWindow>
+</application>
+

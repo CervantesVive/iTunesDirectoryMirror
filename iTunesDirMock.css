@@ -1,0 +1,36 @@
+.ui-state-hidden {
+	display: none;
+}
+
+body {
+    margin:0;
+    padding: 0;
+	text-align: center;
+    background-color:#eee;
+}
+
+#console {
+    overflow: auto;
+    height: 50px;
+    width: 200px;
+}
+
+#selection{
+
+}
+
+#contents {
+    width: 485px;
+    height: 485px;
+	margin: 0 auto;
+	text-align: left;
+	padding: 15px;
+}
+
+#treeContainer{
+    overflow: auto;
+    height: 200px;
+    width: 100%;
+    border: 1px dashed black;
+
+}

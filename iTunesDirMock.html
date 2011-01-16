@@ -1,0 +1,75 @@
+<html>
+	<head>
+
+        <!-- YUI2 Tree -->
+        <link rel="stylesheet" type="text/css" href="yui2/fonts-min.css" />
+        <link rel="stylesheet" type="text/css" href="yui2/treeview.css" />
+        <script type="text/javascript" src="yui2/yahoo-dom-event.js"></script>
+        <script type="text/javascript" src="yui2/treeview-min.js"></script>
+
+		<script src="AIRAliases.js" type="text/javascript"></script>
+        <script type="text/javascript" src="AIRIntrospector.js"></script>        
+
+        <script src="iTunesXmlParser.js" type="text/javascript"></script>
+        <script src="ConsoleManager.js" type="text/javascript"></script>
+        <script src="TreeControl.js" type="text/javascript"></script>
+		<script src="iTunesDirMock.js" type="text/javascript"></script>
+
+
+<!--begin custom header content for this example-->
+<!--bring in the folder-style CSS for the TreeView Control-->
+<link rel="stylesheet" type="text/css" href="../treeview/assets/css/folders/tree.css">
+		
+		<link rel="stylesheet" type="text/css" href="iTunesDirMock.css"/>
+	</head>
+	<body onLoad="doStart();">
+    <!--
+		//TODO:
+		
+		- present UI to upload an iTunes file
+			- default to itunes dir
+		- parse on submit
+			- allow cancelling of parse
+		- present findings
+		- allow user to attempt to create dir structure with modified XML to match
+		
+		ISSUES:
+			- What happens if the files are not under a single location but spread out over many locations (USB drives, etc...)?
+	-->
+	
+	<div id="contents">
+		
+		<div id="selection" class="">
+			<p>Please select an iTunes XML file to inspect.</p>
+			<input id="browse" type="button" value="Browse" />
+		</div>
+
+        <div id="treeContainer" class="ui-state-hidden">
+            <p>Below are the tracks that were found.</p>
+            <div id="treeDiv"></div>
+        </div>
+        <div id="createLocation" class="ui-state-hidden">
+            <p>
+                Please select the location where you with to create this directory structure and place the fixed up iTunes XML:<br/>
+                <input id="createAt" type="button" value="Location" />
+            </p>
+        </div>
+		
+		<div id="console" class="ui-state-hidden">
+			<ol></ol>
+		</div>
+		
+	</div>
+	
+	<script type="text/javascript">
+        function doStart(){
+            air.Introspector.Console.log("Start");
+            var console = new ConsoleManager(document.getElementById('console'));
+            var parser = new iTunesXmlParser(air, console);
+            var tree = new TreeControl(document.getElementById('treeDiv'));
+            initApp(air, parser, console, tree);
+        }
+	</script>
+	
+	</body>
+</html>

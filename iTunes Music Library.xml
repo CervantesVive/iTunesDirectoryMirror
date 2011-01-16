@@ -1,0 +1,2229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>10.1.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/</string>
+	<key>Library Persistent ID</key><string>87A559A61D33572F</string>
+	<key>Tracks</key>
+	<dict>
+		<key>107</key>
+		<dict>
+			<key>Track ID</key><integer>107</integer>
+			<key>Name</key><string>3 A.M. [Explicit]</string>
+			<key>Artist</key><string>Eminem</string>
+			<key>Album Artist</key><string>Eminem</string>
+			<key>Composer</key><string>Marshall Mathers</string>
+			<key>Album</key><string>3 A.M. [Explicit]</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10313034</integer>
+			<key>Total Time</key><integer>320287</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-08-23T18:53:03Z</date>
+			<key>Date Added</key><date>2009-08-23T18:53:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 212399880</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A57A1ED3D4BA2B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Eminem/3%20A.M.%20%5BExplicit%5D/01%203%20A.M.%20%5BExplicit%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>109</key>
+		<dict>
+			<key>Track ID</key><integer>109</integer>
+			<key>Name</key><string>Run This Town [Jay-Z, Rihanna, &#38; Kanye West] (Explicit Album Version)</string>
+			<key>Artist</key><string>Jay-Z</string>
+			<key>Album Artist</key><string>Jay-Z</string>
+			<key>Album</key><string>Run This Town [Jay-Z, Rihanna, &#38; Kanye West] [Explicit]</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8828919</integer>
+			<key>Total Time</key><integer>274991</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-08-23T19:02:05Z</date>
+			<key>Date Added</key><date>2009-08-23T19:02:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 212488216</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A70B1550F848E643</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Jay-Z/Run%20This%20Town%20%5BJay-Z,%20Rihanna,%20&#38;%20Kanye%20West%5D%20%5BExplicit%5D/01%20Run%20This%20Town%20%5BJay-Z,%20Rihanna,%20&#38;%20Kanye%20West%5D%20(Explicit%20Album%20Version).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>111</key>
+		<dict>
+			<key>Track ID</key><integer>111</integer>
+			<key>Name</key><string>Point Blank</string>
+			<key>Artist</key><string>Dub Pistols</string>
+			<key>Album Artist</key><string>Dub Pistols</string>
+			<key>Composer</key><string>Lee Spencer</string>
+			<key>Album</key><string>Point Blank</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10855797</integer>
+			<key>Total Time</key><integer>336953</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2009-08-30T06:30:33Z</date>
+			<key>Date Added</key><date>2009-08-30T06:30:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 202662204</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>839E521965ADD639</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Dub%20Pistols/Point%20Blank/08%20Point%20Blank.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>113</key>
+		<dict>
+			<key>Track ID</key><integer>113</integer>
+			<key>Name</key><string>Wait For You</string>
+			<key>Artist</key><string>Elliott Yamin</string>
+			<key>Album Artist</key><string>Elliott Yamin</string>
+			<key>Composer</key><string>Mikkel S. Eriksen</string>
+			<key>Album</key><string>Elliott Yamin</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7828945</integer>
+			<key>Total Time</key><integer>262112</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-08-30T06:31:02Z</date>
+			<key>Date Added</key><date>2009-08-30T06:31:02Z</date>
+			<key>Bit Rate</key><integer>237</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 204106158</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1EC16BD26FD52B4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Elliott%20Yamin/Elliott%20Yamin/02%20Wait%20For%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>115</key>
+		<dict>
+			<key>Track ID</key><integer>115</integer>
+			<key>Name</key><string>Finally</string>
+			<key>Artist</key><string>Fergie</string>
+			<key>Album Artist</key><string>Fergie</string>
+			<key>Album</key><string>The Dutchess [Explicit]</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16276275</integer>
+			<key>Total Time</key><integer>506827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2009-08-30T06:32:16Z</date>
+			<key>Date Added</key><date>2009-08-30T06:32:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 202465658</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dutchess [Explicit]</string>
+			<key>Persistent ID</key><string>1D80BD2EDBCCBD91</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Fergie/The%20Dutchess%20%5BExplicit%5D/13%20Finally.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>117</key>
+		<dict>
+			<key>Track ID</key><integer>117</integer>
+			<key>Name</key><string>You Got Me</string>
+			<key>Artist</key><string>One Block Radius</string>
+			<key>Album Artist</key><string>One Block Radius</string>
+			<key>Composer</key><string>Marty James</string>
+			<key>Album</key><string>One Block Radius [Explicit]</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6934051</integer>
+			<key>Total Time</key><integer>213916</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-08-30T06:33:00Z</date>
+			<key>Date Added</key><date>2009-08-30T06:33:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 207012916</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>12C47D1DDB58CF41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/One%20Block%20Radius/One%20Block%20Radius%20%5BExplicit%5D/04%20You%20Got%20Me.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>119</key>
+		<dict>
+			<key>Track ID</key><integer>119</integer>
+			<key>Name</key><string>Movin' On</string>
+			<key>Artist</key><string>Elliott Yamin</string>
+			<key>Album Artist</key><string>Elliott Yamin</string>
+			<key>Composer</key><string>Ely Weisfeld</string>
+			<key>Album</key><string>Movin' On</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6649457</integer>
+			<key>Total Time</key><integer>222902</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-08-30T06:33:35Z</date>
+			<key>Date Added</key><date>2009-08-30T06:33:36Z</date>
+			<key>Bit Rate</key><integer>236</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203586202</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F8910DDB30E6CA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Elliott%20Yamin/Movin'%20On/01%20Movin'%20On.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>121</key>
+		<dict>
+			<key>Track ID</key><integer>121</integer>
+			<key>Name</key><string>Will You Be There (Theme from "Free Willy") (Album Version)</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album Artist</key><string>Various</string>
+			<key>Composer</key><string>M. Jackson</string>
+			<key>Album</key><string>Free Willy - Original Motion Picture Soundtrack</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11068062</integer>
+			<key>Total Time</key><integer>354951</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2009-08-30T06:34:40Z</date>
+			<key>Date Added</key><date>2009-08-30T06:34:40Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 206010230</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE9DCFFE8CB76972</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Various/Free%20Willy%20-%20Original%20Motion%20Picture%20Soundtrack/01%20Will%20You%20Be%20There%20(Theme%20from%20_Free%20Willy_)%20(Album%20Version).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>123</key>
+		<dict>
+			<key>Track ID</key><integer>123</integer>
+			<key>Name</key><string>Hypnotize [Explicit]</string>
+			<key>Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album</key><string>Greatest Hits [Explicit]</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7408646</integer>
+			<key>Total Time</key><integer>230086</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-08-30T06:35:04Z</date>
+			<key>Date Added</key><date>2009-08-30T06:35:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 204090796</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Notorious B.I.G.</string>
+			<key>Sort Artist</key><string>Notorious B.I.G.</string>
+			<key>Persistent ID</key><string>9AD7D5A119367026</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/The%20Notorious%20B.I.G_/Greatest%20Hits%20%5BExplicit%5D/03%20Hypnotize%20%5BExplicit%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>125</key>
+		<dict>
+			<key>Track ID</key><integer>125</integer>
+			<key>Name</key><string>One More Chance/Stay With Me Remix [Explicit]</string>
+			<key>Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album Artist</key><string>The Notorious B.I.G.</string>
+			<key>Album</key><string>Greatest Hits [Explicit]</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8646691</integer>
+			<key>Total Time</key><integer>268773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-08-30T06:35:26Z</date>
+			<key>Date Added</key><date>2009-08-30T06:35:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 204090797</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Notorious B.I.G.</string>
+			<key>Sort Artist</key><string>Notorious B.I.G.</string>
+			<key>Persistent ID</key><string>7B460D55C07FB8BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/The%20Notorious%20B.I.G_/Greatest%20Hits%20%5BExplicit%5D/04%20One%20More%20Chance_Stay%20With%20Me%20Remix%20%5BExplicit%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>127</key>
+		<dict>
+			<key>Track ID</key><integer>127</integer>
+			<key>Name</key><string>Only One (Original Mix)</string>
+			<key>Artist</key><string>Chris Lake</string>
+			<key>Album Artist</key><string>Chris Lake</string>
+			<key>Album</key><string>Only One</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12505457</integer>
+			<key>Total Time</key><integer>388832</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-08-30T06:35:56Z</date>
+			<key>Date Added</key><date>2009-08-30T06:35:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 207899642</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC1D10383D09BBB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Chris%20Lake/Only%20One/02%20Only%20One%20(Original%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>129</key>
+		<dict>
+			<key>Track ID</key><integer>129</integer>
+			<key>Name</key><string>Beautiful [Explicit]</string>
+			<key>Artist</key><string>Eminem</string>
+			<key>Album Artist</key><string>Eminem</string>
+			<key>Composer</key><string>Marshall Mathers</string>
+			<key>Album</key><string>Relapse [Deluxe] [Explicit]</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12683401</integer>
+			<key>Total Time</key><integer>392907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-08-30T06:36:29Z</date>
+			<key>Date Added</key><date>2009-08-30T06:36:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 211196482</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB94E9483039F696</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Eminem/Relapse%20%5BDeluxe%5D%20%5BExplicit%5D/17%20Beautiful%20%5BExplicit%5D.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>131</key>
+		<dict>
+			<key>Track ID</key><integer>131</integer>
+			<key>Name</key><string>One Time</string>
+			<key>Artist</key><string>Justin Bieber</string>
+			<key>Album Artist</key><string>Justin Bieber</string>
+			<key>Composer</key><string>Christopher Stewart</string>
+			<key>Album</key><string>One Time</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6926240</integer>
+			<key>Total Time</key><integer>214804</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-08-30T06:36:48Z</date>
+			<key>Date Added</key><date>2009-08-30T06:36:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 211958206</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7223C13DF5A6F50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Justin%20Bieber/One%20Time/01%20One%20Time.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>133</key>
+		<dict>
+			<key>Track ID</key><integer>133</integer>
+			<key>Name</key><string>Keep On Moving</string>
+			<key>Artist</key><string>Phillip and Lloyd</string>
+			<key>Album Artist</key><string>Kon &#38; Amir</string>
+			<key>Album</key><string>Kon &#38; Amir - present Off Track Vol. 2: Queens</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8967601</integer>
+			<key>Total Time</key><integer>276636</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>32</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-08-30T06:37:21Z</date>
+			<key>Date Added</key><date>2009-08-30T06:37:21Z</date>
+			<key>Bit Rate</key><integer>257</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205788245</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>085ED9BABCDB5245</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Kon%20&#38;%20Amir/Kon%20&#38;%20Amir%20-%20present%20Off%20Track%20Vol.%202_%20Queens/07%20Keep%20On%20Moving.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>135</key>
+		<dict>
+			<key>Track ID</key><integer>135</integer>
+			<key>Name</key><string>She Wolf</string>
+			<key>Artist</key><string>Shakira</string>
+			<key>Album Artist</key><string>Shakira</string>
+			<key>Composer</key><string>John Hill</string>
+			<key>Album</key><string>She Wolf</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5802028</integer>
+			<key>Total Time</key><integer>187820</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-08-30T06:38:12Z</date>
+			<key>Date Added</key><date>2009-08-30T06:38:12Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 212054447</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA879792867EFE2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Shakira/She%20Wolf/01%20She%20Wolf.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>137</key>
+		<dict>
+			<key>Track ID</key><integer>137</integer>
+			<key>Name</key><string>Loba</string>
+			<key>Artist</key><string>Shakira</string>
+			<key>Album Artist</key><string>Shakira</string>
+			<key>Composer</key><string>Shakira Mebarak</string>
+			<key>Album</key><string>Loba</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5827796</integer>
+			<key>Total Time</key><integer>188003</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-08-30T06:38:25Z</date>
+			<key>Date Added</key><date>2009-08-30T06:38:25Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 212056585</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>320FFA36415F5417</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Shakira/Loba/01%20Loba.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>139</key>
+		<dict>
+			<key>Track ID</key><integer>139</integer>
+			<key>Name</key><string>Just Got Started Lovin' You (Album Version)</string>
+			<key>Artist</key><string>James Otto</string>
+			<key>Album Artist</key><string>James Otto</string>
+			<key>Album</key><string>Just Got Started Lovin' You</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7605802</integer>
+			<key>Total Time</key><integer>235702</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-08-30T06:38:57Z</date>
+			<key>Date Added</key><date>2009-08-30T06:38:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203445555</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>242521338B738BC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/James%20Otto/Just%20Got%20Started%20Lovin'%20You/01%20Just%20Got%20Started%20Lovin'%20You%20(Album%20Version).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>141</key>
+		<dict>
+			<key>Track ID</key><integer>141</integer>
+			<key>Name</key><string>Don't Let Our Love Start Slippin' Away</string>
+			<key>Artist</key><string>Vince Gill</string>
+			<key>Album Artist</key><string>Vince Gill</string>
+			<key>Composer</key><string>Pete Wasner</string>
+			<key>Album</key><string>I Still Believe In You</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7242056</integer>
+			<key>Total Time</key><integer>224862</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2009-08-30T06:39:18Z</date>
+			<key>Date Added</key><date>2009-08-30T06:39:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 202687289</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5BCC1DB1038D906</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Vince%20Gill/I%20Still%20Believe%20In%20You/01%20Don't%20Let%20Our%20Love%20Start%20Slippin'%20Away.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>143</key>
+		<dict>
+			<key>Track ID</key><integer>143</integer>
+			<key>Name</key><string>I'll Just Hold On</string>
+			<key>Artist</key><string>Blake Shelton</string>
+			<key>Album Artist</key><string>Blake Shelton</string>
+			<key>Album</key><string>Startin' Fires</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7724072</integer>
+			<key>Total Time</key><integer>239281</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-08-30T06:39:48Z</date>
+			<key>Date Added</key><date>2009-08-30T06:39:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 208258582</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A438CF0DC74FF08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Blake%20Shelton/Startin'%20Fires/04%20I'll%20Just%20Hold%20On.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>145</key>
+		<dict>
+			<key>Track ID</key><integer>145</integer>
+			<key>Name</key><string>People Are Crazy</string>
+			<key>Artist</key><string>Billy Currington</string>
+			<key>Album Artist</key><string>Billy Currington</string>
+			<key>Composer</key><string>Bobby Braddock</string>
+			<key>Album</key><string>Little Bit Of Everything</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7463809</integer>
+			<key>Total Time</key><integer>231444</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-08-30T06:40:03Z</date>
+			<key>Date Added</key><date>2009-08-30T06:40:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 207395804</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>93A7CE9051DF1CBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Billy%20Currington/Little%20Bit%20Of%20Everything/05%20People%20Are%20Crazy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>147</key>
+		<dict>
+			<key>Track ID</key><integer>147</integer>
+			<key>Name</key><string>It's A Little Too Late</string>
+			<key>Artist</key><string>Tanya Tucker</string>
+			<key>Album Artist</key><string>Tanya Tucker</string>
+			<key>Composer</key><string>Pat Terry</string>
+			<key>Album</key><string>Can't Run From Yourself</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4966433</integer>
+			<key>Total Time</key><integer>160261</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-08-30T06:40:32Z</date>
+			<key>Date Added</key><date>2009-08-30T06:40:32Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 204216302</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>283E76A92219087B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Tanya%20Tucker/Can't%20Run%20From%20Yourself/01%20It's%20A%20Little%20Too%20Late.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>149</key>
+		<dict>
+			<key>Track ID</key><integer>149</integer>
+			<key>Name</key><string>Allen Rabinovich/YUI 3 Infographics</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>149034651</integer>
+			<key>Total Time</key><integer>2405872</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-17T15:45:05Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:11Z</date>
+			<key>Bit Rate</key><integer>110</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-30T03:50:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE734AB08DB6479B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Allen%20Rabinovich_YUI%203%20Infographics.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>153</key>
+		<dict>
+			<key>Track ID</key><integer>153</integer>
+			<key>Name</key><string>Brad Neuberg/Introduction to HTML5</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>246158728</integer>
+			<key>Total Time</key><integer>3727794</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-10-16T16:50:17Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:12Z</date>
+			<key>Bit Rate</key><integer>104</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  All rights reserved.</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3343062126</integer>
+			<key>Play Date UTC</key><date>2009-12-08T04:22:06Z</date>
+			<key>Release Date</key><date>2009-10-08T19:45:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D3633F5215BA8CA4</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Brad%20Neuberg_Introduction%20to%20HTML5.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>155</key>
+		<dict>
+			<key>Track ID</key><integer>155</integer>
+			<key>Name</key><string>Brendan Eich/ECMA Harmony and the Future of JavaScript</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>269018849</integer>
+			<key>Total Time</key><integer>3964297</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-04T14:48:27Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:12Z</date>
+			<key>Bit Rate</key><integer>113</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc. Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-29T19:59:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60F757188B193E20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Brendan%20Eich_ECMA%20Harmony%20and%20the%20Future%20of%20JavaScript.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>157</key>
+		<dict>
+			<key>Track ID</key><integer>157</integer>
+			<key>Name</key><string>Chad Auld/Introducing PHP Loader</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>76607040</integer>
+			<key>Total Time</key><integer>1650483</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-18T11:09:39Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:12Z</date>
+			<key>Bit Rate</key><integer>107</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited for YUI Theater by Eric Miraglia.</string>
+			<key>Release Date</key><date>2009-10-29T21:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>651AD90427D7B242</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Chad%20Auld_Introducing%20PHP%20Loader.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>159</key>
+		<dict>
+			<key>Track ID</key><integer>159</integer>
+			<key>Name</key><string>Charles McCathieNevile/Opera Dragonfly</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>93704993</integer>
+			<key>Total Time</key><integer>1130930</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-05-28T14:50:04Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:12Z</date>
+			<key>Bit Rate</key><integer>105</integer>
+			<key>Release Date</key><date>2009-05-27T19:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D6B74958CAB06F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Charles%20McCathieNevile_Opera%20Dragonfly.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>161</key>
+		<dict>
+			<key>Track ID</key><integer>161</integer>
+			<key>Name</key><string>Dav Glass/Contributing to YUI</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>253126424</integer>
+			<key>Total Time</key><integer>3289489</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-04T14:41:26Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:12Z</date>
+			<key>Bit Rate</key><integer>116</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited for YUI Theater by Eric Miraglia.</string>
+			<key>Release Date</key><date>2009-10-29T19:55:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D62AF97886640B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Dav%20Glass_Contributing%20to%20YUI.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>163</key>
+		<dict>
+			<key>Track ID</key><integer>163</integer>
+			<key>Name</key><string>Douglas Crockford/The JSON Saga</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>249841164</integer>
+			<key>Total Time</key><integer>2965165</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-08-01T15:09:18Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:13Z</date>
+			<key>Bit Rate</key><integer>130</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.</string>
+			<key>Release Date</key><date>2009-06-30T19:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FCF6A484C33EEBB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Douglas%20Crockford_The%20JSON%20Saga.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>165</key>
+		<dict>
+			<key>Track ID</key><integer>165</integer>
+			<key>Name</key><string>Douglas Crockford/The State and Future of JavaScript</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>245993352</integer>
+			<key>Total Time</key><integer>3342909</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-09T05:23:52Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:13Z</date>
+			<key>Bit Rate</key><integer>113</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-30T02:55:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E789B4FD2609DBE9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Douglas%20Crockford_The%20State%20and%20Future%20of%20JavaScript.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>167</key>
+		<dict>
+			<key>Track ID</key><integer>167</integer>
+			<key>Name</key><string>Eric Ferraiuolo/Web App Development with YUI 3</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>125891124</integer>
+			<key>Total Time</key><integer>2196629</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-16T05:13:27Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:14Z</date>
+			<key>Bit Rate</key><integer>109</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited for YUI Theater by Eric Miraglia.</string>
+			<key>Release Date</key><date>2009-10-29T21:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8DA2E8EC85472BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Eric%20Ferraiuolo_Web%20App%20Development%20with%20YUI%203.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>169</key>
+		<dict>
+			<key>Track ID</key><integer>169</integer>
+			<key>Name</key><string>Eric Miraglia/Welcome to YUI 3</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>216405922</integer>
+			<key>Total Time</key><integer>2898064</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-17T15:30:47Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:14Z</date>
+			<key>Bit Rate</key><integer>118</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-30T03:50:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09890C7178DA994D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Eric%20Miraglia_Welcome%20to%20YUI%203.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>171</key>
+		<dict>
+			<key>Track ID</key><integer>171</integer>
+			<key>Name</key><string>Isaac Schlueter/Solving Problems with YUI 3</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>105463009</integer>
+			<key>Total Time</key><integer>1948548</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-17T15:36:44Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:14Z</date>
+			<key>Bit Rate</key><integer>109</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-30T03:50:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75A4C3A1CFC32C3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Isaac%20Schlueter_Solving%20Problems%20with%20YUI%203.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173</key>
+		<dict>
+			<key>Track ID</key><integer>173</integer>
+			<key>Name</key><string>Jenny Donnelly/Hacking with YUI</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>104605664</integer>
+			<key>Total Time</key><integer>2624891</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-20T05:30:46Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:15Z</date>
+			<key>Bit Rate</key><integer>108</integer>
+			<key>Release Date</key><date>2009-03-18T19:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B14A4811BD846A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Jenny%20Donnelly_Hacking%20with%20YUI.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>175</key>
+		<dict>
+			<key>Track ID</key><integer>175</integer>
+			<key>Name</key><string>Jonathan LeBlanc/YQL and YUI</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>132946757</integer>
+			<key>Total Time</key><integer>1469269</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-08-03T14:43:12Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:15Z</date>
+			<key>Bit Rate</key><integer>125</integer>
+			<key>Release Date</key><date>2009-06-30T19:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB100149B8432262</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Jonathan%20LeBlanc_YQL%20and%20YUI.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>177</key>
+		<dict>
+			<key>Track ID</key><integer>177</integer>
+			<key>Name</key><string>Julien Lecomte/High Performance Ajax Applications</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>202917373</integer>
+			<key>Total Time</key><integer>2966633</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-03-20T05:40:32Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:16Z</date>
+			<key>Bit Rate</key><integer>121</integer>
+			<key>Release Date</key><date>2007-12-23T18:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61765AE5F7BFE893</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Julien%20Lecomte_High%20Performance%20Ajax%20Applications.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>179</key>
+		<dict>
+			<key>Track ID</key><integer>179</integer>
+			<key>Name</key><string>Luke Smith/Debugging in YUI 3</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>228142584</integer>
+			<key>Total Time</key><integer>3629629</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-17T16:07:38Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:16Z</date>
+			<key>Bit Rate</key><integer>106</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-30T03:50:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F40430DF53198D1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Luke%20Smith_Debugging%20in%20YUI%203.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>181</key>
+		<dict>
+			<key>Track ID</key><integer>181</integer>
+			<key>Name</key><string>Luke Smith/Events Evolved</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>185209200</integer>
+			<key>Total Time</key><integer>2770270</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-10-31T16:15:35Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:17Z</date>
+			<key>Bit Rate</key><integer>104</integer>
+			<key>Release Date</key><date>2009-10-29T19:45:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26CBB0B349B52AF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Luke%20Smith_Events%20Evolved.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>183</key>
+		<dict>
+			<key>Track ID</key><integer>183</integer>
+			<key>Name</key><string>Matt Snider/Introducing the YUI 2.8.0 Storage Utility</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>200699099</integer>
+			<key>Total Time</key><integer>2789522</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-10T15:57:15Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:17Z</date>
+			<key>Bit Rate</key><integer>104</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited for YUI Theater by Eric Miraglia.</string>
+			<key>Release Date</key><date>2009-10-29T21:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4148C41E4AA5E867</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Matt%20Snider_Introducing%20the%20YUI%202.8.0%20Storage%20Utility.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>185</key>
+		<dict>
+			<key>Track ID</key><integer>185</integer>
+			<key>Name</key><string>Matt Sweeney/YUI 3 Performance</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>163050647</integer>
+			<key>Total Time</key><integer>2122756</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-17T15:31:21Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:17Z</date>
+			<key>Bit Rate</key><integer>105</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-30T03:50:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7FCA3A154A10233A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Matt%20Sweeney_YUI%203%20Performance.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>187</key>
+		<dict>
+			<key>Track ID</key><integer>187</integer>
+			<key>Name</key><string>Nate Koechley/Professional Frontend Engineering</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>355893133</integer>
+			<key>Total Time</key><integer>5354387</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-03-20T05:51:54Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:18Z</date>
+			<key>Bit Rate</key><integer>107</integer>
+			<key>Release Date</key><date>2009-03-18T19:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D582C84C4A5C6F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Nate%20Koechley_Professional%20Frontend%20Engineering.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>189</key>
+		<dict>
+			<key>Track ID</key><integer>189</integer>
+			<key>Name</key><string>Nicholas C. Zakas/Scalable JavaScript Application Architecture</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>199588221</integer>
+			<key>Total Time</key><integer>3142442</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-22T05:41:41Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:18Z</date>
+			<key>Bit Rate</key><integer>100</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.</string>
+			<key>Release Date</key><date>2009-09-08T19:45:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B836BB92182C44B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Nicholas%20C.%20Zakas_Scalable%20JavaScript%20Application%20Architecture.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>191</key>
+		<dict>
+			<key>Track ID</key><integer>191</integer>
+			<key>Name</key><string>Nicholas C. Zakas/Scalable JavaScript Application Architecture</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>199588221</integer>
+			<key>Total Time</key><integer>3142442</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-22T04:30:27Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:19Z</date>
+			<key>Bit Rate</key><integer>100</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.</string>
+			<key>Release Date</key><date>2009-09-08T19:45:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6FCE7FD3BBE6341F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Nicholas%20C.%20Zakas_Scalable%20JavaScript%20Application%20Architecture%201.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>193</key>
+		<dict>
+			<key>Track ID</key><integer>193</integer>
+			<key>Name</key><string>Nicholas C. Zakas/Test-Driven Development with YUI Test</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>149378402</integer>
+			<key>Total Time</key><integer>2889289</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-09-10T15:44:58Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:19Z</date>
+			<key>Bit Rate</key><integer>113</integer>
+			<key>Comments</key><string>Recorded October 9, 2008, at the Yahoo Frontend Engineering Summit in Sunnyvale California by Ricky Montalvo and Eric Miraglia.  Edited by Eric Miraglia for YUI Theater. ©2008 Yahoo Inc.</string>
+			<key>Release Date</key><date>2008-10-18T18:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B65E511BEBE4FA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Nicholas%20C.%20Zakas_Test-Driven%20Development%20with%20YUI%20Test.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>195</key>
+		<dict>
+			<key>Track ID</key><integer>195</integer>
+			<key>Name</key><string>PPK (Peter-Paul Koch)/JavaScript Events</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>200061987</integer>
+			<key>Total Time</key><integer>3315582</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-05-01T13:32:08Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:19Z</date>
+			<key>Bit Rate</key><integer>109</integer>
+			<key>Release Date</key><date>2009-04-30T19:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF2B65ED781BA925</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/PPK%20(Peter-Paul%20Koch)_JavaScript%20Events.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>197</key>
+		<dict>
+			<key>Track ID</key><integer>197</integer>
+			<key>Name</key><string>Ron Adams/Automated Integration Testing with YUI Test, Selenium and Hudson</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>214147552</integer>
+			<key>Total Time</key><integer>2809142</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-10T15:54:59Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:20Z</date>
+			<key>Bit Rate</key><integer>113</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-29T21:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9BDC051048178374</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Ron%20Adams_Automated%20Integration%20Testing%20with%20YUI%20Test,%20Selenium%20and%20Hudson.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>199</key>
+		<dict>
+			<key>Track ID</key><integer>199</integer>
+			<key>Name</key><string>Satyen Desai/A Widget Walkthrough</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>245355164</integer>
+			<key>Total Time</key><integer>3322989</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-16T05:22:40Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:20Z</date>
+			<key>Bit Rate</key><integer>105</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited for YUI Theater by Eric Miraglia.</string>
+			<key>Release Date</key><date>2009-10-29T21:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF2D013974326E15</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Satyen%20Desai_A%20Widget%20Walkthrough.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>201</key>
+		<dict>
+			<key>Track ID</key><integer>201</integer>
+			<key>Name</key><string>Satyen Desai/YUI 3: Design Goals and Architecture</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>239437415</integer>
+			<key>Total Time</key><integer>2903336</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-05-18T07:35:50Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Release Date</key><date>2009-05-11T19:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE8FF995EB7BF0FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Satyen%20Desai_YUI%203_%20Design%20Goals%20and%20Architecture.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>203</key>
+		<dict>
+			<key>Track ID</key><integer>203</integer>
+			<key>Name</key><string>Satyen Desai/YUI 3: Design Goals and Architecture</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>QuickTime movie file</string>
+			<key>Size</key><integer>214143310</integer>
+			<key>Total Time</key><integer>2903336</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-05-12T15:10:36Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:21Z</date>
+			<key>Bit Rate</key><integer>39</integer>
+			<key>Release Date</key><date>2009-05-11T19:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94EFC558F4BEDD51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>480</integer>
+			<key>Video Height</key><integer>270</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Satyen%20Desai_YUI%203_%20Design%20Goals%20and%20Architecture.mov</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>205</key>
+		<dict>
+			<key>Track ID</key><integer>205</integer>
+			<key>Name</key><string>Stephen Woods/Creating Beautiful Documentation with YUI Doc</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>128847890</integer>
+			<key>Total Time</key><integer>1939506</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-18T11:10:20Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:22Z</date>
+			<key>Bit Rate</key><integer>116</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-29T21:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2992289F8B064336</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Stephen%20Woods_Creating%20Beautiful%20Documentation%20with%20YUI%20Doc.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>207</key>
+		<dict>
+			<key>Track ID</key><integer>207</integer>
+			<key>Name</key><string>Todd Kloots/Building Accessible Widgets with YUI 3</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>103726905</integer>
+			<key>Total Time</key><integer>2652052</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-16T05:20:26Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:22Z</date>
+			<key>Bit Rate</key><integer>110</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-30T03:50:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>316A5C4C36350492</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Todd%20Kloots_Building%20Accessible%20Widgets%20with%20YUI%203.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>209</key>
+		<dict>
+			<key>Track ID</key><integer>209</integer>
+			<key>Name</key><string>Todd Kloots/Developing an Accessible Web 2.0 Widget Framework</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>174711831</integer>
+			<key>Total Time</key><integer>3060260</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-05-26T03:19:04Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:23Z</date>
+			<key>Bit Rate</key><integer>108</integer>
+			<key>Release Date</key><date>2009-05-21T19:30:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9EA6594A997F2169</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Todd%20Kloots_Developing%20an%20Accessible%20Web%202.0%20Widget%20Framework.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>211</key>
+		<dict>
+			<key>Track ID</key><integer>211</integer>
+			<key>Name</key><string>Todd Kloots/YUI 3 Sugar</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>145046449</integer>
+			<key>Total Time</key><integer>2287754</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-11-17T15:22:38Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:23Z</date>
+			<key>Bit Rate</key><integer>109</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.  Recorded and edited by Eric Miraglia for YUI Theater.</string>
+			<key>Release Date</key><date>2009-10-30T03:50:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13A5508309F9AE4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>240</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Todd%20Kloots_YUI%203%20Sugar.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>213</key>
+		<dict>
+			<key>Track ID</key><integer>213</integer>
+			<key>Name</key><string>Tom Preston-Werner, Chris Wanstrath and Scott Chacon/Git, GitHub and Social Coding</string>
+			<key>Artist</key><string>Eric Miraglia</string>
+			<key>Album Artist</key><string>Eric Miraglia</string>
+			<key>Album</key><string>YUI Theater</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>228599953</integer>
+			<key>Total Time</key><integer>4099165</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-08-13T14:56:32Z</date>
+			<key>Date Added</key><date>2009-12-01T05:58:23Z</date>
+			<key>Bit Rate</key><integer>107</integer>
+			<key>Comments</key><string>©2009 Yahoo! Inc.</string>
+			<key>Release Date</key><date>2009-06-30T19:35:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19EAEBB42449A11D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Podcast</key><true/>
+			<key>Unplayed</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>320</integer>
+			<key>Video Height</key><integer>180</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Podcasts/YUI%20Theater/Tom%20Preston-Werner,%20Chris%20Wanstrath%20and%20Scott%20Chacon_Git,%20GitHub%20and%20Social%20Coding.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>217</key>
+		<dict>
+			<key>Track ID</key><integer>217</integer>
+			<key>Name</key><string>Video2</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>568937826</integer>
+			<key>Total Time</key><integer>1869909</integer>
+			<key>Date Modified</key><date>2010-03-10T07:54:30Z</date>
+			<key>Date Added</key><date>2010-04-17T18:23:26Z</date>
+			<key>Bit Rate</key><integer>127</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8888526FB2785FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>704</integer>
+			<key>Video Height</key><integer>480</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Movies/Video2.m4v</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>434</key>
+		<dict>
+			<key>Track ID</key><integer>434</integer>
+			<key>Name</key><string>Enano-2011-01-03</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>5258766</integer>
+			<key>Total Time</key><integer>44244</integer>
+			<key>Date Modified</key><date>2011-01-05T02:52:28Z</date>
+			<key>Date Added</key><date>2011-01-05T02:52:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A94307754CADAAF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>480</integer>
+			<key>Video Height</key><integer>272</integer>
+			<key>Movie</key><true/>
+			<key>File Type</key><integer>1295275552</integer>
+			<key>Location</key><string>file://localhost/Users/cervantes_vive/Music/iTunes/iTunes%20Music/Movies/Enano-2011-01-03.m4v</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>219</integer>
+			<key>Playlist Persistent ID</key><string>A2A2B1961B668AA7</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Playlist ID</key><integer>340</integer>
+			<key>Playlist Persistent ID</key><string>075236D5D341BCEC</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Playlist ID</key><integer>364</integer>
+			<key>Playlist Persistent ID</key><string>04D97D0E634CE9D9</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Playlist ID</key><integer>368</integer>
+			<key>Playlist Persistent ID</key><string>9058D4308330D58C</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Playlist ID</key><integer>299</integer>
+			<key>Playlist Persistent ID</key><string>F84F9470AAFC6ED6</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>177</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Playlist ID</key><integer>380</integer>
+			<key>Playlist Persistent ID</key><string>140CB1FC09DF7A2F</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>iTunes DJ</string>
+			<key>Playlist ID</key><integer>296</integer>
+			<key>Playlist Persistent ID</key><string>50C38C2D4C8D3301</string>
+			<key>Distinguished Kind</key><integer>22</integer>
+			<key>Party Shuffle</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>90’s Music</string>
+			<key>Playlist ID</key><integer>276</integer>
+			<key>Playlist Persistent ID</key><string>3D4A2793FEC6653E</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Classical Music</string>
+			<key>Playlist ID</key><integer>386</integer>
+			<key>Playlist Persistent ID</key><string>8D171F634CCC0ACF</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnpTTHN0AAEAAQAAAAcAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBh
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music Videos</string>
+			<key>Playlist ID</key><integer>293</integer>
+			<key>Playlist Persistent ID</key><string>D22AF2A35F801C5E</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>My Top Rated</string>
+			<key>Playlist ID</key><integer>281</integer>
+			<key>Playlist Persistent ID</key><string>47C34FA515EE7AC8</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Added</string>
+			<key>Playlist ID</key><integer>290</integer>
+			<key>Playlist Persistent ID</key><string>B52D57D9772897CF</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>434</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Played</string>
+			<key>Playlist ID</key><integer>287</integer>
+			<key>Playlist Persistent ID</key><string>D126CA66BF1404BF</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Top 25 Most Played</string>
+			<key>Playlist ID</key><integer>284</integer>
+			<key>Playlist Persistent ID</key><string>E37182A7620B62CB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+	</array>
+</dict>
+</plist>
