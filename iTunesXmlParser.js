@@ -4,10 +4,32 @@ function iTunesXmlParser(air, console){
     this.tree = [];
     this.paths = [];
     this.console = console;
+    this.xmlDoc = null;
+    this.xmlLocationNodes = [];
 }
 
 iTunesXmlParser.prototype.getPaths = function(){
     return this.paths.concat([]);
+};
+
+iTunesXmlParser.prototype.fixPaths = function(pathMap, itunesFile){
+
+    for(var x=0;x<this.xmlLocationNodes.length;x++){
+        var location = this.xmlLocationNodes[x];
+        var current = String(location.firstChild.nodeValue);
+        if('undefined' !== typeof pathMap[current]){
+            location.firstChild.nodeValue = pathMap[current];
+        }
+    }
+
+    //serialize xml to new location
+    var serializer = new XMLSerializer();
+    var xml = serializer.serializeToString(this.xmlDoc);
+
+    var stream = new this.air.FileStream();
+    stream.open(itunesFile, this.air.FileMode.WRITE);
+    stream.writeUTFBytes(xml);
+    stream.close();
 };
 
 iTunesXmlParser.prototype.parse = function(iTunesFile, callback){
@@ -18,7 +40,8 @@ iTunesXmlParser.prototype.parse = function(iTunesFile, callback){
         var xml = stream.readUTFBytes(stream.bytesAvailable);
         stream.close();
 
-        return new DOMParser().parseFromString(xml, "text/xml");
+        this.xmlDoc = new DOMParser().parseFromString(xml, "text/xml");
+        return this.xmlDoc;
     }
 
     function processLocations(xml){
@@ -36,6 +59,7 @@ iTunesXmlParser.prototype.parse = function(iTunesFile, callback){
             var location = locations[y].nextSibling;
             if(location && location.nodeName === 'string'){
                 this.addToTreeData(String(location.firstChild.nodeValue));
+                this.xmlLocationNodes.push(location);
             }
         }
     }
@@ -48,13 +72,6 @@ iTunesXmlParser.prototype.parse = function(iTunesFile, callback){
 };
 
 iTunesXmlParser.prototype.addToTreeData = function(path){
-    /*
-        - check whether file exists first
-        - only check file://localhost files
-            windows: file://localhost/C:/
-            mac: file://localhost/Users/cervantes_vive
-        - Flatten out directory structure based on path separators
-     */
     function getNodeFromList(list, nodeName){
         for(var x=0;x<list.length;x++){
             if(String(list[x].label) === String(nodeName)){

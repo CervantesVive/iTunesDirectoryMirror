@@ -64,17 +64,29 @@ function initApp(air, parser, console, tree) {
         });
 
         function doSelectDirectory(event){
-            var directory = event.target;
-            var paths = parser.getPaths();
-            var sourceFile = air.File.applicationDirectory.resolvePath('sample.mp3');
-            for(var x=0;x<paths.length;x++){
-                var subPath = decodeURIComponent(paths[x].substr(17).replace(':', 'Drive'));
-                var destinationFile = directory.resolvePath(subPath);
-                sourceFile.copyTo(destinationFile, false);
-            }
+            document.getElementById('createLocation').innerHTML = "<p>WORKING...</p>";
+            setTimeout(function(){
+                var directory = event.target;
+                var paths = parser.getPaths();
+                var pathMaps = {};
+                var sourceFile = air.File.applicationDirectory.resolvePath('sample.mp3');
+                for(var x=0;x<paths.length;x++){
+                    var p = paths[x];
+                    var subPath = decodeURIComponent(p.substr(17).replace(':', 'Drive'));
+                    var destinationFile = directory.resolvePath(subPath);
+                    sourceFile.copyTo(destinationFile, false);
+                    var d = destinationFile.nativePath;
+                    if(d.substr(0,1) !== '/'){
+                        d =  '/' + d;
+                    }
+                    pathMaps[p] = 'file://localhost' + encodeURI(d).replace(/&amp;/g,'&#38;');//TODO: might need to replace >,< as well
+                }
 
-            //TDO: map the given paths into the chosen directory....
-            ///..../tmp/localhost/c:/My Documents/Music/iTunes Music/
+                //dump a fixed up iTunesXml file in the directory
+                var newItunesFile = directory.resolvePath('iTunes Music Library.xml');
+                parser.fixPaths(pathMaps, newItunesFile);
+                document.getElementById('createLocation').innerHTML = "<p>DONE</p>";
+            }, 100);
         }
 
     })();
